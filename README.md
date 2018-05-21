@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Stockholder
 
-You can use the [editor on GitHub](https://github.com/noumanwaheed/stockholder/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+On Stockholder.no
+- A site where you as Company can serve your shareholders effectively.
+- A site where you as Shareholder have easy access to company information, and where you can trade shares with other shareholders.
 
 ### Markdown
 
