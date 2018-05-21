@@ -11,10 +11,8 @@ Technologies that have been used while developing the project.
 - Laravel 5.4
 - API Integration (www.brreg.no)
 
-# Header 1
-## Header 2
-### Header 3
-**Teraception** and _Italic_ and `Code` text
+### Note
+I developed this project when i was entitled as Software Engineer in **Teraception**.
 
 [Website](https://www.stockholder.no)
 ```
