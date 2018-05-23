@@ -8,6 +8,10 @@ Stockholder.no
 
 ```markdown
 Technologies that have been used while developing the project.
+- Bootstrap 3.1.1
+- Typescript 2.4.2
+- SaSS 3.5.1
+- Webpack 3.5.3
 - Laravel 5.4
 - PHP 7.1
 - MySQL 5.7
